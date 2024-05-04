@@ -1,0 +1,91 @@
+.App {
+  background-position: center;
+  background-size:contain;
+  background-repeat: no-repeat;
+  background-image: url("C:\Users\SCLPT 032\Desktop\images\frontimage.jpg");
+  width: '100%';
+  height: '100%';
+
+
+    
+  }
+  .App-header {
+    
+    font-size: calc(10px + 2vmin);  
+   color: rgb(44, 117, 242);
+    position: relative; 
+    background-Size: '98%';
+    background-Repeat: 'no-repeat';
+    align-items: center;
+
+
+  }
+  
+  .button-container {
+    position: absolute; 
+    top: 210px; 
+    left: 200px; 
+    nav-down: 100%;
+    align-items: center;
+    color: darkred;
+
+  }
+  
+  .container {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .background {
+    background-image: url('C:\Users\SCLPT 032\Desktop\my-page\my-page\src\secondimage.jpg'); 
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .text {
+    text-align: center;
+    color: rgb(41, 23, 232);
+    top: '-200px';
+    left: '90px';
+  }
+  .cartLabel{
+    margin-right:'-29px';
+    margin-top: '-40px';
+    margin-left: '35px';
+     
+  }
+
+
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
